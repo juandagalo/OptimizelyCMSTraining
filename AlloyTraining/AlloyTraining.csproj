@@ -20,9 +20,4 @@
   <ItemGroup>
     <EmbeddedResource Include="Resources\Translations\**\*" />
   </ItemGroup>
-  
-  <ItemGroup>
-    <Folder Include="Models\Pages\" />
-    <Folder Include="Controllers\" />
-  </ItemGroup>
 </Project>

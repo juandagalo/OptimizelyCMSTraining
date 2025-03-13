@@ -10,7 +10,8 @@ namespace AlloyTraining.Models.Pages;
     GUID = "3D9C7B19-8F0C-4E7A-ACA6-9BB5C1A76E63",
     Description = "The home page for a website with an area for blocks and partial pages.",
     GroupName = SiteGroupNames.Specialized, Order = 10)]
-public class StartPage : PageData
+[SiteStartIcon]
+public class StartPage : SitePageData
 {
     [CultureSpecific]
     [Display(
@@ -35,4 +36,12 @@ public class StartPage : PageData
         GroupName = SystemTabNames.Content,
         Order = 30)]
     public virtual ContentArea MainContentArea { get; set; }
+
+    [CultureSpecific]
+    [Display(
+        Name = "Footer text",
+        Description = "The footer text is shown at the bottom of every page.",
+        GroupName = SiteTabNames.SiteSettings,
+        Order = 10)]
+    public virtual string FooterText { get; set; }
 }

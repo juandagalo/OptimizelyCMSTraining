@@ -1,7 +1,4 @@
-﻿using EPiServer.Core;
-using EPiServer.DataAnnotations;
-using EPiServer.DataAbstraction;
-using EPiServer.Web;
+﻿using EPiServer.Web;
 using System.ComponentModel.DataAnnotations;
 
 namespace AlloyTraining.Models.Pages
@@ -25,7 +22,7 @@ namespace AlloyTraining.Models.Pages
         [UIHint(UIHint.Textarea)]
         public virtual string MetaDescription { get; set; }
 
-        [Display(Name = "Page Image", 
+        [Display(Name = "Page Image",
             GroupName = SystemTabNames.Content, Order = 40)]
         [UIHint(UIHint.Image)]
         public virtual ContentReference PageImage { get; set; }

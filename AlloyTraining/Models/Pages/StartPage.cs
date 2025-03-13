@@ -1,7 +1,4 @@
 using System.ComponentModel.DataAnnotations;
-using EPiServer.Core;
-using EPiServer.DataAbstraction;
-using EPiServer.DataAnnotations;
 
 namespace AlloyTraining.Models.Pages;
 
@@ -11,6 +8,7 @@ namespace AlloyTraining.Models.Pages;
     Description = "The home page for a website with an area for blocks and partial pages.",
     GroupName = SiteGroupNames.Specialized, Order = 10)]
 [SiteStartIcon]
+[AvailableContentTypes(Include = new[] {typeof(StandardPage)})]
 public class StartPage : SitePageData
 {
     [CultureSpecific]

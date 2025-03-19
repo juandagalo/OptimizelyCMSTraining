@@ -1,4 +1,5 @@
-﻿using AlloyTraining.Business.SelectionFactories;
+﻿using AlloyTraining.Business.EditorDescriptors;
+using AlloyTraining.Business.SelectionFactories;
 using EPiServer.Shell.ObjectEditing;
 using System.ComponentModel.DataAnnotations;
 
@@ -10,7 +11,7 @@ namespace AlloyTraining.Models.Pages
         Description = "Use this for software products that Alloy sells.",
         GroupName = SiteGroupNames.Specialized)]
     [SiteCommerceIcon]
-    public class ProductPage : StandardPage
+    public class ProductPage : StandardPage//, IDisableOnPageEditView
     {
         public override void SetDefaultValues(ContentType contentType)
         {

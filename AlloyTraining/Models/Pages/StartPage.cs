@@ -1,3 +1,4 @@
+using AlloyTraining.Models.Media;
 using System.ComponentModel.DataAnnotations;
 
 namespace AlloyTraining.Models.Pages;
@@ -33,6 +34,8 @@ public class StartPage : SitePageData
         Description = "Drag and drop images, blocks, folders, and pages with partial templates.",
         GroupName = SystemTabNames.Content,
         Order = 30)]
+    [AllowedTypes(typeof(StandardPage), typeof(BlockData), 
+        typeof(ImageData), typeof(ContentFolder), typeof(PdfFile))]
     public virtual ContentArea MainContentArea { get; set; }
 
     [CultureSpecific]

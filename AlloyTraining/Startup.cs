@@ -2,6 +2,7 @@ using EPiServer.Cms.Shell;
 using EPiServer.Cms.UI.AspNetIdentity;
 using EPiServer.Scheduler;
 using EPiServer.ServiceLocation;
+using EPiServer.Web;
 using EPiServer.Web.Routing;
 
 namespace AlloyTraining;
@@ -29,6 +30,13 @@ public class Startup
             .AddCms()
             .AddAdminUserRegistration()
             .AddEmbeddedLocalization<Startup>();
+
+        services.Configure<DisplayOptions>(options =>
+        {
+            options.Add(id: SiteTags.Full, name: "Full", tag: SiteTags.Full);
+            options.Add(id: SiteTags.Wide, name: "Wide", tag: SiteTags.Wide);
+            options.Add(id: SiteTags.Narrow, name: "Narrow", tag: SiteTags.Narrow);
+        });
     }
 
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

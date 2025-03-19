@@ -37,6 +37,8 @@ public class Startup
             options.Add(id: SiteTags.Wide, name: "Wide", tag: SiteTags.Wide);
             options.Add(id: SiteTags.Narrow, name: "Narrow", tag: SiteTags.Narrow);
         });
+
+        services.AddDetection();
     }
 
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

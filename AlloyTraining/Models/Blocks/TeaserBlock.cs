@@ -13,6 +13,7 @@ namespace AlloyTraining.Models.Blocks
         [CultureSpecific]
         [Display(
             Name = "Heading",
+            GroupName = SystemTabNames.PageHeader,
             Order = 10)]
         public virtual string TeaserHeading { get; set; }
 
@@ -24,12 +25,14 @@ namespace AlloyTraining.Models.Blocks
 
         [Display(
             Name = "Image",
+            GroupName = SystemTabNames.PageHeader,
             Order = 30)]
         [UIHint(UIHint.Image)]
         public virtual ContentReference TeaserImage { get; set; }
 
         [Display(
             Name = "Link",
+            GroupName = SystemTabNames.PageHeader,
             Order = 40)]
         public virtual PageReference TeaserLink { get; set; }
 

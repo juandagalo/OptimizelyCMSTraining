@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Components.Forms;
+﻿using AlloyTraining.Models.Blocks;
 using System.ComponentModel.DataAnnotations;
 
 namespace AlloyTraining.Models.Pages
@@ -10,7 +10,7 @@ namespace AlloyTraining.Models.Pages
         GroupName = SiteGroupNames.Common,
         Order = 10)]
     [SitePageIcon]
-    [AvailableContentTypes(Include = new[] { typeof(StandardPage) }, Exclude = new[] {typeof(ProductPage)})]
+    [AvailableContentTypes(Include = new[] { typeof(StandardPage) }, Exclude = new[] { typeof(ProductPage) })]
     public class StandardPage : SitePageData
     {
         [CultureSpecific]
@@ -19,5 +19,10 @@ namespace AlloyTraining.Models.Pages
             GroupName = SystemTabNames.Content,
             Order = 150)]
         public virtual XhtmlString MainBody { get; set; }
+
+        [Display(Name = "Author",
+            GroupName = SystemTabNames.Content,
+            Order = 200)]
+        public virtual EmployeeBlock Author { get; set; }
     }
 }

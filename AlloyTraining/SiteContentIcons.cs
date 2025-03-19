@@ -1,6 +1,4 @@
-﻿using EPiServer.DataAnnotations; // ImageUrlAttribute
-
-namespace AlloyTraining
+﻿namespace AlloyTraining
 {
     public class SiteImageUrlAttribute : ImageUrlAttribute
     {

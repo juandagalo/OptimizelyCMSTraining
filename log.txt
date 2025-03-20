@@ -1,0 +1,215 @@
+2025-03-20 14:04:52.359 -05:00 [INF] Running update command.
+2025-03-20 14:05:24.524 -05:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 50 - Local Database Runtime error occurred. Specified LocalDB instance name is invalid.
+)]
+2025-03-20 14:05:24.530 -05:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 50 - Local Database Runtime error occurred. Specified LocalDB instance name is invalid.
+)]
+2025-03-20 14:05:27.534 -05:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 50 - Local Database Runtime error occurred. Specified LocalDB instance name is invalid.
+)]
+2025-03-20 14:10:46.194 -05:00 [INF] Running update command.
+2025-03-20 14:10:49.740 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.Find.Cms\16.4.1\tools\epiupdates\sql\1.0.1.sql
+2025-03-20 14:10:49.785 -05:00 [INF] Script validation: 1 - Upgrading database
+2025-03-20 14:10:49.789 -05:00 [INF] Running script 1.0.1.sql
+2025-03-20 14:10:49.812 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\7.8.0.sql
+2025-03-20 14:10:49.820 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.821 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\7.10.0.sql
+2025-03-20 14:10:49.824 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.825 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\7.11.0.sql
+2025-03-20 14:10:49.828 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.828 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\7.12.0.sql
+2025-03-20 14:10:49.832 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.832 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\7.13.0.sql
+2025-03-20 14:10:49.835 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.835 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\7.14.0.sql
+2025-03-20 14:10:49.838 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.838 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\7.16.0.sql
+2025-03-20 14:10:49.841 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.842 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\7.19.0.sql
+2025-03-20 14:10:49.844 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.845 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\7.19.1.sql
+2025-03-20 14:10:49.849 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.849 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\8.0.0.sql
+2025-03-20 14:10:49.852 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.852 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\8.4.0.sql
+2025-03-20 14:10:49.855 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.855 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\8.6.0.sql
+2025-03-20 14:10:49.858 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.858 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\8.7.0.sql
+2025-03-20 14:10:49.860 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.861 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\8.9.0.sql
+2025-03-20 14:10:49.864 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.864 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\8.10.0.sql
+2025-03-20 14:10:49.867 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.867 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\9.0.0.sql
+2025-03-20 14:10:49.870 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.870 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\9.0.1.sql
+2025-03-20 14:10:49.872 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.873 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\9.0.2.sql
+2025-03-20 14:10:49.875 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.875 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\9.1.0.sql
+2025-03-20 14:10:49.878 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.879 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\9.1.1.sql
+2025-03-20 14:10:49.882 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.883 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\9.2.0.sql
+2025-03-20 14:10:49.886 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.886 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\9.3.0.sql
+2025-03-20 14:10:49.889 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.889 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\9.4.0.sql
+2025-03-20 14:10:49.891 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.892 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\9.5.0.sql
+2025-03-20 14:10:49.894 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.895 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\9.6.2.sql
+2025-03-20 14:10:49.898 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.899 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\9.7.0.sql
+2025-03-20 14:10:49.901 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.902 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\9.8.0.sql
+2025-03-20 14:10:49.905 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.905 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\9.8.1.sql
+2025-03-20 14:10:49.907 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.908 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\9.8.2.sql
+2025-03-20 14:10:49.910 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.911 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\9.8.3.sql
+2025-03-20 14:10:49.914 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.914 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\10.0.0.sql
+2025-03-20 14:10:49.917 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.918 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\10.1.0.sql
+2025-03-20 14:10:49.920 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.920 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\10.2.0.sql
+2025-03-20 14:10:49.923 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.923 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\10.3.0.sql
+2025-03-20 14:10:49.925 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.926 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\10.3.2.sql
+2025-03-20 14:10:49.928 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.929 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\10.4.1.sql
+2025-03-20 14:10:49.932 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.933 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\10.5.0.sql
+2025-03-20 14:10:49.936 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.936 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\10.6.0.sql
+2025-03-20 14:10:49.939 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.939 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\10.7.0.sql
+2025-03-20 14:10:49.942 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.942 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\10.8.0.sql
+2025-03-20 14:10:49.945 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.946 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\10.9.0.sql
+2025-03-20 14:10:49.949 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.950 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\10.10.0.sql
+2025-03-20 14:10:49.952 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.953 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.0.0.sql
+2025-03-20 14:10:49.956 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.956 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.2.0.sql
+2025-03-20 14:10:49.959 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.959 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.3.3.sql
+2025-03-20 14:10:49.962 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.963 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.3.4.sql
+2025-03-20 14:10:49.966 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.967 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.5.4.sql
+2025-03-20 14:10:49.969 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.970 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.6.0.sql
+2025-03-20 14:10:49.972 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.973 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.7.0.sql
+2025-03-20 14:10:49.975 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.976 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.8.1.sql
+2025-03-20 14:10:49.978 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.980 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.10.0.sql
+2025-03-20 14:10:49.983 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.984 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.10.7.sql
+2025-03-20 14:10:49.986 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.986 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.12.0.sql
+2025-03-20 14:10:49.989 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.989 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.13.3.sql
+2025-03-20 14:10:49.991 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.992 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.14.2.sql
+2025-03-20 14:10:49.994 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.994 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.15.0.sql
+2025-03-20 14:10:49.999 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:49.999 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.15.1.sql
+2025-03-20 14:10:50.002 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.002 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.17.0.sql
+2025-03-20 14:10:50.004 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.005 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.19.0.sql
+2025-03-20 14:10:50.007 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.008 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.20.0.sql
+2025-03-20 14:10:50.010 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.010 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.20.3.sql
+2025-03-20 14:10:50.014 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.014 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.20.7.sql
+2025-03-20 14:10:50.017 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.017 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\11.20.9.sql
+2025-03-20 14:10:50.020 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.020 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.0.0.sql
+2025-03-20 14:10:50.022 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.023 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.0.4.sql
+2025-03-20 14:10:50.025 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.025 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.1.2.sql
+2025-03-20 14:10:50.028 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.029 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.2.1.sql
+2025-03-20 14:10:50.032 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.033 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.Find.Cms\16.4.1\tools\epiupdates\sql\12.2.8.sql
+2025-03-20 14:10:50.039 -05:00 [INF] Script validation: 1 - Upgrading database
+2025-03-20 14:10:50.039 -05:00 [INF] Running script 12.2.8.sql
+2025-03-20 14:10:50.069 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.4.0.sql
+2025-03-20 14:10:50.074 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.074 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.4.1.sql
+2025-03-20 14:10:50.077 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.078 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.Find.Cms\16.4.1\tools\epiupdates\sql\12.4.2.sql
+2025-03-20 14:10:50.083 -05:00 [INF] Script validation: 1 - Upgrading database
+2025-03-20 14:10:50.084 -05:00 [INF] Running script 12.4.2.sql
+2025-03-20 14:10:50.116 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.5.1.sql
+2025-03-20 14:10:50.122 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.122 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.8.0.sql
+2025-03-20 14:10:50.125 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.126 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.8.1.sql
+2025-03-20 14:10:50.128 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.129 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.9.2.sql
+2025-03-20 14:10:50.132 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.132 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.10.0.sql
+2025-03-20 14:10:50.135 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.135 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.11.0.sql
+2025-03-20 14:10:50.138 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.138 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.12.0.sql
+2025-03-20 14:10:50.141 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.141 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.13.0.sql
+2025-03-20 14:10:50.144 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.144 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.14.0.sql
+2025-03-20 14:10:50.148 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.148 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.15.0.sql
+2025-03-20 14:10:50.150 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.151 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.16.0.sql
+2025-03-20 14:10:50.153 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.154 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.17.1.sql
+2025-03-20 14:10:50.156 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.157 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.18.0.sql
+2025-03-20 14:10:50.159 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.160 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.19.0.sql
+2025-03-20 14:10:50.163 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.164 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.19.1.sql
+2025-03-20 14:10:50.166 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.167 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.20.0.sql
+2025-03-20 14:10:50.169 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.170 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.20.1.sql
+2025-03-20 14:10:50.172 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.173 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.CMS.Core\12.21.2\tools\epiupdates\sql\12.21.1.sql
+2025-03-20 14:10:50.175 -05:00 [INF] Script validation: 0 - Already correct database version
+2025-03-20 14:10:50.175 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.Find.Cms\16.4.1\tools\epiupdates\sql\13.0.4.sql
+2025-03-20 14:10:50.180 -05:00 [INF] Script validation: 1 - Upgrading database
+2025-03-20 14:10:50.181 -05:00 [INF] Running script 13.0.4.sql
+2025-03-20 14:10:50.192 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.Find.Cms\16.4.1\tools\epiupdates\sql\13.2.3.sql
+2025-03-20 14:10:50.198 -05:00 [INF] Script validation: 1 - Upgrading database
+2025-03-20 14:10:50.198 -05:00 [INF] Running script 13.2.3.sql
+2025-03-20 14:10:50.200 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.Find.Cms\16.4.1\tools\epiupdates\sql\13.2.5.sql
+2025-03-20 14:10:50.205 -05:00 [INF] Script validation: 1 - Upgrading database
+2025-03-20 14:10:50.206 -05:00 [INF] Running script 13.2.5.sql
+2025-03-20 14:10:50.209 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.Find.Cms\16.4.1\tools\epiupdates\sql\13.2.8.sql
+2025-03-20 14:10:50.214 -05:00 [INF] Script validation: 1 - Upgrading database
+2025-03-20 14:10:50.214 -05:00 [INF] Running script 13.2.8.sql
+2025-03-20 14:10:50.219 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.Find.Cms\16.4.1\tools\epiupdates\sql\13.4.0.sql
+2025-03-20 14:10:50.223 -05:00 [INF] Script validation: 1 - Upgrading database
+2025-03-20 14:10:50.224 -05:00 [INF] Running script 13.4.0.sql
+2025-03-20 14:10:50.229 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.Find.Cms\16.4.1\tools\epiupdates\sql\13.4.1.sql
+2025-03-20 14:10:50.235 -05:00 [INF] Script validation: 1 - Upgrading database
+2025-03-20 14:10:50.236 -05:00 [INF] Running script 13.4.1.sql
+2025-03-20 14:10:50.238 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.Find.Cms\16.4.1\tools\epiupdates\sql\16.2.0.sql
+2025-03-20 14:10:50.243 -05:00 [INF] Script validation: 1 - Upgrading database
+2025-03-20 14:10:50.243 -05:00 [INF] Running script 16.2.0.sql
+2025-03-20 14:10:50.281 -05:00 [INF] Processing C:\Users\45621749\.nuget\packages\EPiServer.Find.Cms\16.4.1\tools\epiupdates\sql\16.4.0.sql
+2025-03-20 14:10:50.287 -05:00 [INF] Script validation: 1 - Upgrading database
+2025-03-20 14:10:50.289 -05:00 [INF] Running script 16.4.0.sql

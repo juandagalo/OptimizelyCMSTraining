@@ -1,0 +1,9 @@
+2025-03-20 14:01:28.589 -05:00 [INF] Running update command.
+2025-03-20 14:01:28.684 -05:00 [ERR] Update requires missing connection string EPiServerDB
+2025-03-20 14:01:44.963 -05:00 [INF] Running update command.
+2025-03-20 14:02:19.237 -05:00 [INF] Database operation failed, will do retry 1 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 50 - Local Database Runtime error occurred. Specified LocalDB instance name is invalid.
+)]
+2025-03-20 14:02:19.242 -05:00 [INF] Database operation failed, will do retry 2 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 50 - Local Database Runtime error occurred. Specified LocalDB instance name is invalid.
+)]
+2025-03-20 14:02:22.257 -05:00 [INF] Database operation failed, will do retry 3 of 3 [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 50 - Local Database Runtime error occurred. Specified LocalDB instance name is invalid.
+)]

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3AD72AA6-3C7C-4689-ACBD-C3DE946731A1}|AlloyTraining\\AlloyTraining.csproj|c:\\optimizely\\cmstraining\\alloytraining\\alloytraining\\controllers\\newslandingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD72AA6-3C7C-4689-ACBD-C3DE946731A1}|AlloyTraining\\AlloyTraining.csproj|solutionrelative:alloytraining\\controllers\\newslandingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD72AA6-3C7C-4689-ACBD-C3DE946731A1}|AlloyTraining\\AlloyTraining.csproj|c:\\optimizely\\cmstraining\\alloytraining\\alloytraining\\models\\pages\\newslandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD72AA6-3C7C-4689-ACBD-C3DE946731A1}|AlloyTraining\\AlloyTraining.csproj|solutionrelative:alloytraining\\models\\pages\\newslandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD72AA6-3C7C-4689-ACBD-C3DE946731A1}|AlloyTraining\\AlloyTraining.csproj|c:\\optimizely\\cmstraining\\alloytraining\\alloytraining\\views\\newslandingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AD72AA6-3C7C-4689-ACBD-C3DE946731A1}|AlloyTraining\\AlloyTraining.csproj|solutionrelative:alloytraining\\views\\newslandingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AD72AA6-3C7C-4689-ACBD-C3DE946731A1}|AlloyTraining\\AlloyTraining.csproj|c:\\optimizely\\cmstraining\\alloytraining\\alloytraining\\views\\shared\\components\\listingblock\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3AD72AA6-3C7C-4689-ACBD-C3DE946731A1}|AlloyTraining\\AlloyTraining.csproj|solutionrelative:alloytraining\\views\\shared\\components\\listingblock\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -74,16 +86,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Views\\NewsLandingPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "AlloyTraining\\Views\\NewsLandingPage\\Index.cshtml",
+              "ToolTip": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Views\\NewsLandingPage\\Index.cshtml",
+              "RelativeToolTip": "AlloyTraining\\Views\\NewsLandingPage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T16:04:02.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NewsLandingPageController.cs",
+              "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Controllers\\NewsLandingPageController.cs",
+              "RelativeDocumentMoniker": "AlloyTraining\\Controllers\\NewsLandingPageController.cs",
+              "ToolTip": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Controllers\\NewsLandingPageController.cs",
+              "RelativeToolTip": "AlloyTraining\\Controllers\\NewsLandingPageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:01:31.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsLandingPage.cs",
+              "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Models\\Pages\\NewsLandingPage.cs",
+              "RelativeDocumentMoniker": "AlloyTraining\\Models\\Pages\\NewsLandingPage.cs",
+              "ToolTip": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Models\\Pages\\NewsLandingPage.cs",
+              "RelativeToolTip": "AlloyTraining\\Models\\Pages\\NewsLandingPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:55:35.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Views\\Shared\\Components\\ListingBlock\\Default.cshtml",
               "RelativeDocumentMoniker": "AlloyTraining\\Views\\Shared\\Components\\ListingBlock\\Default.cshtml",
-              "ToolTip": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Views\\Shared\\Components\\ListingBlock\\Default.cshtml*",
-              "RelativeToolTip": "AlloyTraining\\Views\\Shared\\Components\\ListingBlock\\Default.cshtml*",
+              "ToolTip": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Views\\Shared\\Components\\ListingBlock\\Default.cshtml",
+              "RelativeToolTip": "AlloyTraining\\Views\\Shared\\Components\\ListingBlock\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-20T15:27:28.03Z",
@@ -91,20 +142,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ListingBlockComponent.cs",
               "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Components\\ListingBlockComponent.cs",
               "RelativeDocumentMoniker": "AlloyTraining\\Components\\ListingBlockComponent.cs",
-              "ToolTip": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Components\\ListingBlockComponent.cs*",
-              "RelativeToolTip": "AlloyTraining\\Components\\ListingBlockComponent.cs*",
+              "ToolTip": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Components\\ListingBlockComponent.cs",
+              "RelativeToolTip": "AlloyTraining\\Components\\ListingBlockComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:02:03.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T15:02:03.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ListingBlockViewModel.cs",
               "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Models\\ViewModels\\ListingBlockViewModel.cs",
               "RelativeDocumentMoniker": "AlloyTraining\\Models\\ViewModels\\ListingBlockViewModel.cs",
@@ -112,12 +162,11 @@
               "RelativeToolTip": "AlloyTraining\\Models\\ViewModels\\ListingBlockViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:59:43.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T14:59:43.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ListingBlock.cs",
               "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Models\\Blocks\\ListingBlock.cs",
               "RelativeDocumentMoniker": "AlloyTraining\\Models\\Blocks\\ListingBlock.cs",
@@ -125,12 +174,11 @@
               "RelativeToolTip": "AlloyTraining\\Models\\Blocks\\ListingBlock.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:51:05.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T14:51:05.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Views\\StandardPage\\Index.cshtml",
               "RelativeDocumentMoniker": "AlloyTraining\\Views\\StandardPage\\Index.cshtml",
@@ -138,12 +186,11 @@
               "RelativeToolTip": "AlloyTraining\\Views\\StandardPage\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T22:17:33.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T22:17:33.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "EmployeeBlock.cshtml",
               "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Views\\Shared\\EmployeeBlock.cshtml",
               "RelativeDocumentMoniker": "AlloyTraining\\Views\\Shared\\EmployeeBlock.cshtml",
@@ -155,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "EmployeeBlock.cs",
               "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Models\\Blocks\\EmployeeBlock.cs",
               "RelativeDocumentMoniker": "AlloyTraining\\Models\\Blocks\\EmployeeBlock.cs",
@@ -167,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "TeaserBlock.cs",
               "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Models\\Blocks\\TeaserBlock.cs",
               "RelativeDocumentMoniker": "AlloyTraining\\Models\\Blocks\\TeaserBlock.cs",
@@ -179,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "TeaserBlockComponent.cs",
               "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Components\\TeaserBlockComponent.cs",
               "RelativeDocumentMoniker": "AlloyTraining\\Components\\TeaserBlockComponent.cs",
@@ -191,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Full.cshtml",
               "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Views\\Shared\\Components\\TeaserBlock\\Full.cshtml",
               "RelativeDocumentMoniker": "AlloyTraining\\Views\\Shared\\Components\\TeaserBlock\\Full.cshtml",
@@ -203,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "PreviewPageController.cs",
               "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Controllers\\PreviewPageController.cs",
               "RelativeDocumentMoniker": "AlloyTraining\\Controllers\\PreviewPageController.cs",
@@ -211,12 +258,11 @@
               "RelativeToolTip": "AlloyTraining\\Controllers\\PreviewPageController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T21:42:33.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T21:42:33.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "StandardPage.cs",
               "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Models\\Pages\\StandardPage.cs",
               "RelativeDocumentMoniker": "AlloyTraining\\Models\\Pages\\StandardPage.cs",
@@ -228,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Wide.cshtml",
               "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Views\\Shared\\Components\\TeaserBlock\\Wide.cshtml",
               "RelativeDocumentMoniker": "AlloyTraining\\Views\\Shared\\Components\\TeaserBlock\\Wide.cshtml",
@@ -240,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Narrow.cshtml",
               "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Views\\Shared\\Components\\TeaserBlock\\Narrow.cshtml",
               "RelativeDocumentMoniker": "AlloyTraining\\Views\\Shared\\Components\\TeaserBlock\\Narrow.cshtml",
@@ -252,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "PreviewPageViewModel.cs",
               "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Models\\ViewModels\\PreviewPageViewModel.cs",
               "RelativeDocumentMoniker": "AlloyTraining\\Models\\ViewModels\\PreviewPageViewModel.cs",
@@ -264,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Optimizely\\CMSTraining\\AlloyTraining\\AlloyTraining\\Views\\PreviewPage\\Index.cshtml",
               "RelativeDocumentMoniker": "AlloyTraining\\Views\\PreviewPage\\Index.cshtml",
